@@ -1957,7 +1957,7 @@
       "autorecordtype": false,
       "autorecord": true,
       "autotype": false,
-      "multiprefix": false
+      "multiprefix":true
     },
     "919366316018@s.whatsapp.net": {
       "anticall": false,
